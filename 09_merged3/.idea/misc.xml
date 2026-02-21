@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ExternalStorageConfigurationManager" enabled="true" />
+  <component name="MavenProjectsManager">
+    <option name="originalFiles">
+      <list>
+        <option value="$PROJECT_DIR$/merged_3/CharAt/CharAt/pom.xml" />
+        <option value="$PROJECT_DIR$/merged_3/Length/Length/pom.xml" />
+        <option value="$PROJECT_DIR$/merged_3/indexOf/indexOf/pom.xml" />
+        <option value="$PROJECT_DIR$/merged_3/Package/Package/pom.xml" />
+        <option value="$PROJECT_DIR$/merged_3/Replace/pom.xml" />
+        <option value="$PROJECT_DIR$/merged_3/SubString/SubString/pom.xml" />
+        <option value="$PROJECT_DIR$/merged_3/startsWith/startsWith/startsWith/pom.xml" />
+        <option value="$PROJECT_DIR$/merged_3/CallAMethod/pom.xml" />
+        <option value="$PROJECT_DIR$/merged_3/Constructor/Constructor1/pom.xml" />
+        <option value="$PROJECT_DIR$/merged_3/Enumeration/Enumeration/pom.xml" />
+        <option value="$PROJECT_DIR$/merged_3/StringEqual/equalDemo/pom.xml" />
+        <option value="$PROJECT_DIR$/merged_3/methodsPage6/pom.xml" />
+        <option value="$PROJECT_DIR$/merged_3/FinalConstant/FinalConstant/pom.xml" />
+        <option value="$PROJECT_DIR$/merged_3/CompareToClass/CompareTo/pom.xml" />
+        <option value="$PROJECT_DIR$/merged_3/SetterAndGetterMethod/pom.xml" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_1_8" default="true" project-jdk-name="temurin-1.8" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/out" />
+  </component>
+</project>
