@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="Replace" />
+        <module name="equalDemo" />
+        <module name="Enumeration" />
+        <module name="methodsPage6" />
+        <module name="Constructor1" />
+        <module name="SubString" />
+        <module name="CallAMethod" />
+        <module name="FinalConstant" />
+        <module name="CharAt" />
+        <module name="Length" />
+        <module name="Package" />
+        <module name="indexOf" />
+        <module name="CompareTo" />
+        <module name="startsWith" />
+        <module name="SetterAndGetterMethod" />
+      </profile>
+    </annotationProcessing>
+  </component>
+</project>
